@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Kuo</title>
+    <description>My Personal Blog</description>
+    <link>https://crescent3983.github.io/</link>
+    <atom:link href="https://crescent3983.github.io/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 21 Jun 2022 02:40:06 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Jun 2022 02:40:06 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Awesome Graphics</title>
+        <description>&lt;p&gt;I made a website to collect awesome graphics projects on Github.&lt;/p&gt;
+
+&lt;p&gt;Hope you can find some inspiration here.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://crescent3983.github.io/GraphicsRepoCollection&quot;&gt;Computer Graphics Repoistory&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://crescent3983.github.io/GraphicsRepoCollection/assets/img/teaser.png&quot; alt=&quot;IMG&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+        <link>https://crescent3983.github.io/graphics/2022/04/23/awsome-graphics.html</link>
+        <guid isPermaLink="true">https://crescent3983.github.io/graphics/2022/04/23/awsome-graphics.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>The First Post</title>
+        <description>&lt;p&gt;The is the first post of my new website.&lt;/p&gt;
+
+&lt;p&gt;Any suggestions are welcome.&lt;/p&gt;
+
+&lt;p&gt;大家請多指教&lt;/p&gt;
+
+&lt;p&gt;よろしくお願いします&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+        <link>https://crescent3983.github.io/life/2022/04/10/first-post.html</link>
+        <guid isPermaLink="true">https://crescent3983.github.io/life/2022/04/10/first-post.html</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+      <item>
+        <title>3D Campus</title>
+        <description>3D Campus</description> 
+        <link>https://crescent3983.github.io/projects/3d-campus.html</link>
+        <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+        
+        <category>Unity</category>
+        
+        <category>C#</category>
+        
+        <category>PHP</category>
+        
+        <category>MySQL</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Path Breaker</title>
+        <description>Path Breaker</description> 
+        <link>https://crescent3983.github.io/projects/path-breaker.html</link>
+        <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+        
+        <category>Unity</category>
+        
+        <category>C#</category>
+        
+        <category>Game</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Rubik's Cube</title>
+        <description>Rubik's Cube</description> 
+        <link>https://crescent3983.github.io/projects/rubiks-cube.html</link>
+        <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+        
+        <category>Java</category>
+        
+        <category>OpenGL ES</category>
+        
+        <category>Game</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Online Chess</title>
+        <description>Online Chess</description> 
+        <link>https://crescent3983.github.io/projects/online-chess.html</link>
+        <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+        
+        <category>C++</category>
+        
+        <category>Qt</category>
+        
+        <category>OpenGL</category>
+        
+        <category>Game</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Ball</title>
+        <description>Ball</description> 
+        <link>https://crescent3983.github.io/projects/ball.html</link>
+        <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+        
+        <category>Unity</category>
+        
+        <category>JavaScript</category>
+        
+        <category>SQLite</category>
+        
+        <category>Game</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>SEBC</title>
+        <description>SEBC</description> 
+        <link>https://crescent3983.github.io/projects/sebc.html</link>
+        <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+        
+        <category>C++</category>
+        
+        <category>OpenGL</category>
+        
+        <category>Game</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Thunder Attack</title>
+        <description>Thunder Attack</description> 
+        <link>https://crescent3983.github.io/projects/thunder-attack.html</link>
+        <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+        
+        <category>HTML</category>
+        
+        <category>CSS</category>
+        
+        <category>JavaScript</category>
+        
+        <category>Game</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Battle Soul</title>
+        <description>Battle Soul</description> 
+        <link>https://crescent3983.github.io/projects/battle-soul.html</link>
+        <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+        
+        <category>Flash</category>
+        
+        <category>ActionScript</category>
+        
+        <category>Game</category>
+        
+      </item>
+      
+    
+  </channel>
+</rss>
